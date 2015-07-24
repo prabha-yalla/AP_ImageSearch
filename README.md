@@ -8,9 +8,9 @@ Helps the user to search images by entering a keyword. It uses AP Content API to
 
 - Proxy layer appends the API Key to the request and forwards it the AP Content API.
 
-- Proxy layer forwards the AP Content API response to Angular Client.
+- Proxy layer get the image url from AP Content API and send the response to Angular Client.
 
-- Angular client parses the json response and displays the images.
+- Angular client parses the JSON response and displays the images.
 
 - Since image request also requires API Key to be appended, they are routed via Proxy Layer.
 
