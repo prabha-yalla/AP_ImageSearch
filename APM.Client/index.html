@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html ng-app="Press">
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>PRESS</title>
+    <link type="text/css" rel="stylesheet" href="app.css" />
+</head>
+<body ng-controller="searchController">
+<form role="form" ng-submit="submit()">
+    <div class="search-class">
+    <input ng-model="keyword"/>
+    <button type="submit">Search</button>
+    </div>
+</form>
+
+
+    <div class="image-style" ng-repeat="image in images track by $id(image)">
+        <img ng-src="http://localhost:52293//api/Image/GetPhoto?href={{image}}" alt="">
+    </div>
+
+<script type="text/javascript" src="vendor/angular.js"></script>
+<script type="text/javascript" src="app.js"></script>
+
+</body>
+</html>

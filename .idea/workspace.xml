@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0bbd86f-5797-4246-9a54-871104b3846b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vs/APM/v14/.suo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/obj/Debug/APM.WebAPI.csprojResolveAssemblyReference.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/APM.WebAPI.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/obj/Debug/APM.WebAPI.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/APM.WebAPI.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/obj/Debug/APM.WebAPI.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/AngularJS.Core.1.3.15/AngularJS.Core.1.3.15.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/AngularJS.Resource.1.3.15/AngularJS.Resource.1.3.15.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Antlr.3.4.1.9004/Antlr.3.4.1.9004.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Antlr3.Runtime.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Antlr.3.4.1.9004/lib/Antlr3.Runtime.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Antlr3.Runtime.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Antlr.3.4.1.9004/lib/Antlr3.Runtime.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/EntityFramework.6.1.1/EntityFramework.6.1.1.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/EntityFramework.6.1.1/tools/EntityFramework.PowerShell.Utility.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/EntityFramework.6.1.1/tools/EntityFramework.PowerShell.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/EntityFramework.SqlServer.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/EntityFramework.6.1.1/lib/net40/EntityFramework.SqlServer.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/EntityFramework.6.1.1/lib/net45/EntityFramework.SqlServer.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/EntityFramework.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/EntityFramework.6.1.1/lib/net40/EntityFramework.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/EntityFramework.6.1.1/lib/net45/EntityFramework.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.Cors.5.2.3/Microsoft.AspNet.Cors.5.2.3.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.Identity.Core.2.1.0/Microsoft.AspNet.Identity.Core.2.1.0.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Microsoft.AspNet.Identity.Core.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.Identity.Core.2.1.0/lib/net45/Microsoft.AspNet.Identity.Core.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.Identity.EntityFramework.2.1.0/Microsoft.AspNet.Identity.EntityFramework.2.1.0.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Microsoft.AspNet.Identity.EntityFramework.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.Identity.EntityFramework.2.1.0/lib/net45/Microsoft.AspNet.Identity.EntityFramework.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.Identity.Owin.2.1.0/Microsoft.AspNet.Identity.Owin.2.1.0.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Microsoft.AspNet.Identity.Owin.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.Identity.Owin.2.1.0/lib/net45/Microsoft.AspNet.Identity.Owin.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.Mvc.5.2.2/Microsoft.AspNet.Mvc.5.2.2.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.OData.5.5.0/Microsoft.AspNet.OData.5.5.0.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.Razor.3.2.2/Microsoft.AspNet.Razor.3.2.2.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.Web.Optimization.1.1.3/Microsoft.AspNet.Web.Optimization.1.1.3.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.5.2.2/Microsoft.AspNet.WebApi.5.2.2.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Client.5.2.3/Microsoft.AspNet.WebApi.Client.5.2.3.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Core.5.2.3/Microsoft.AspNet.WebApi.Core.5.2.3.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Cors.5.2.3/Microsoft.AspNet.WebApi.Cors.5.2.3.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Microsoft.AspNet.WebApi.HelpPage.5.2.2.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Owin.5.2.2/Microsoft.AspNet.WebApi.Owin.5.2.2.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.WebHost.5.2.2/Microsoft.AspNet.WebApi.WebHost.5.2.2.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.2/Microsoft.AspNet.WebPages.3.2.2.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.OData.Core.6.10.0/Microsoft.OData.Core.6.10.0.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Microsoft.OData.Core.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.OData.Core.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/Microsoft.OData.Core.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/de/Microsoft.OData.Core.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/es/Microsoft.OData.Core.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/fr/Microsoft.OData.Core.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/it/Microsoft.OData.Core.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/ja/Microsoft.OData.Core.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/ko/Microsoft.OData.Core.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/ru/Microsoft.OData.Core.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/zh-Hans/Microsoft.OData.Core.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/zh-Hant/Microsoft.OData.Core.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.OData.Core.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/de/Microsoft.OData.Core.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.OData.Core.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/es/Microsoft.OData.Core.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.OData.Core.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/fr/Microsoft.OData.Core.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.OData.Core.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/it/Microsoft.OData.Core.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.OData.Core.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/ja/Microsoft.OData.Core.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.OData.Core.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/ko/Microsoft.OData.Core.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.OData.Core.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/ru/Microsoft.OData.Core.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.OData.Core.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/zh-Hans/Microsoft.OData.Core.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.OData.Core.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/zh-Hant/Microsoft.OData.Core.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.OData.Edm.6.10.0/Microsoft.OData.Edm.6.10.0.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Microsoft.OData.Edm.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.OData.Edm.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/Microsoft.OData.Edm.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/de/Microsoft.OData.Edm.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/es/Microsoft.OData.Edm.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/fr/Microsoft.OData.Edm.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/it/Microsoft.OData.Edm.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/ja/Microsoft.OData.Edm.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/ko/Microsoft.OData.Edm.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/ru/Microsoft.OData.Edm.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/zh-Hans/Microsoft.OData.Edm.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/zh-Hant/Microsoft.OData.Edm.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.OData.Edm.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/de/Microsoft.OData.Edm.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.OData.Edm.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/es/Microsoft.OData.Edm.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.OData.Edm.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/fr/Microsoft.OData.Edm.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.OData.Edm.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/it/Microsoft.OData.Edm.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.OData.Edm.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/ja/Microsoft.OData.Edm.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.OData.Edm.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/ko/Microsoft.OData.Edm.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.OData.Edm.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/ru/Microsoft.OData.Edm.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.OData.Edm.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/zh-Hans/Microsoft.OData.Edm.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.OData.Edm.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/zh-Hant/Microsoft.OData.Edm.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Owin.3.0.0/Microsoft.Owin.3.0.0.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Owin.Host.SystemWeb.3.0.0/Microsoft.Owin.Host.SystemWeb.3.0.0.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Microsoft.Owin.Host.SystemWeb.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Owin.Host.SystemWeb.3.0.0/lib/net45/Microsoft.Owin.Host.SystemWeb.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Owin.Security.3.0.0/Microsoft.Owin.Security.3.0.0.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Owin.Security.Cookies.3.0.0/Microsoft.Owin.Security.Cookies.3.0.0.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Microsoft.Owin.Security.Cookies.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Owin.Security.Cookies.3.0.0/lib/net45/Microsoft.Owin.Security.Cookies.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Owin.Security.Facebook.3.0.0/Microsoft.Owin.Security.Facebook.3.0.0.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Microsoft.Owin.Security.Facebook.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Owin.Security.Facebook.3.0.0/lib/net45/Microsoft.Owin.Security.Facebook.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Owin.Security.Google.3.0.0/Microsoft.Owin.Security.Google.3.0.0.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Microsoft.Owin.Security.Google.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Owin.Security.Google.3.0.0/lib/net45/Microsoft.Owin.Security.Google.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Owin.Security.MicrosoftAccount.3.0.0/Microsoft.Owin.Security.MicrosoftAccount.3.0.0.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Microsoft.Owin.Security.MicrosoftAccount.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Owin.Security.MicrosoftAccount.3.0.0/lib/net45/Microsoft.Owin.Security.MicrosoftAccount.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Owin.Security.OAuth.3.0.0/Microsoft.Owin.Security.OAuth.3.0.0.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Microsoft.Owin.Security.OAuth.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Owin.Security.OAuth.3.0.0/lib/net45/Microsoft.Owin.Security.OAuth.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Owin.Security.Twitter.3.0.0/Microsoft.Owin.Security.Twitter.3.0.0.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Microsoft.Owin.Security.Twitter.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Owin.Security.Twitter.3.0.0/lib/net45/Microsoft.Owin.Security.Twitter.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Microsoft.Owin.Security.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Owin.Security.3.0.0/lib/net45/Microsoft.Owin.Security.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Microsoft.Owin.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Owin.3.0.0/lib/net45/Microsoft.Owin.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Spatial.6.10.0/Microsoft.Spatial.6.10.0.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Microsoft.Spatial.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Spatial.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/Microsoft.Spatial.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/de/Microsoft.Spatial.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/es/Microsoft.Spatial.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/fr/Microsoft.Spatial.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/it/Microsoft.Spatial.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/ja/Microsoft.Spatial.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/ko/Microsoft.Spatial.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/ru/Microsoft.Spatial.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/zh-Hans/Microsoft.Spatial.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/zh-Hant/Microsoft.Spatial.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Spatial.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/de/Microsoft.Spatial.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Spatial.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/es/Microsoft.Spatial.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Spatial.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/fr/Microsoft.Spatial.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Spatial.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/it/Microsoft.Spatial.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Spatial.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/ja/Microsoft.Spatial.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Spatial.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/ko/Microsoft.Spatial.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Spatial.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/ru/Microsoft.Spatial.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Spatial.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/zh-Hans/Microsoft.Spatial.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Spatial.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/zh-Hant/Microsoft.Spatial.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Web.Infrastructure.1.0.0.0/Microsoft.Web.Infrastructure.1.0.0.0.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Microsoft.Web.Infrastructure.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Web.Infrastructure.1.0.0.0/lib/net40/Microsoft.Web.Infrastructure.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.2/Microsoft.jQuery.Unobtrusive.Validation.3.2.2.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Modernizr.2.6.2/Modernizr.2.6.2.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/Newtonsoft.Json.6.0.4.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Newtonsoft.Json.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/net20/Newtonsoft.Json.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/net35/Newtonsoft.Json.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/net40/Newtonsoft.Json.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/net45/Newtonsoft.Json.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/netcore45/Newtonsoft.Json.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/portable-net45+wp80+win8+wpa81/Newtonsoft.Json.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Owin.1.0/Owin.1.0.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Owin.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Owin.1.0/lib/net40/Owin.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Respond.1.2.0/Respond.1.2.0.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/System.Net.Http.Formatting.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Client.5.2.3/lib/net45/System.Net.Http.Formatting.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Client.5.2.3/lib/portable-wp8+netcore45+net45+wp81+wpa81/System.Net.Http.Formatting.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/System.Web.Cors.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.Cors.5.2.3/lib/net45/System.Web.Cors.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/System.Web.Helpers.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.2/lib/net45/System.Web.Helpers.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/System.Web.Http.Cors.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Cors.5.2.3/lib/net45/System.Web.Http.Cors.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/System.Web.Http.Owin.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Owin.5.2.2/lib/net45/System.Web.Http.Owin.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/System.Web.Http.WebHost.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.WebHost.5.2.2/lib/net45/System.Web.Http.WebHost.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/System.Web.Http.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Core.5.2.3/lib/net45/System.Web.Http.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/System.Web.Mvc.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.Mvc.5.2.2/lib/net45/System.Web.Mvc.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/System.Web.OData.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.OData.5.5.0/lib/net45/System.Web.OData.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/System.Web.Optimization.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.Web.Optimization.1.1.3/lib/net40/System.Web.Optimization.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/System.Web.Razor.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.Razor.3.2.2/lib/net45/System.Web.Razor.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/System.Web.WebPages.Deployment.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.2/lib/net45/System.Web.WebPages.Deployment.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/System.Web.WebPages.Razor.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.2/lib/net45/System.Web.WebPages.Razor.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/System.Web.WebPages.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.2/lib/net45/System.Web.WebPages.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/WebGrease.1.5.2/tools/WG.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/WebGrease.1.5.2/WebGrease.1.5.2.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/WebGrease.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/WebGrease.1.5.2/lib/WebGrease.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/App_Data/aspnet-APM.WebAPI-20150325013344.mdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/App_Data/aspnet-APM.WebAPI-20150325013344_log.ldf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/bootstrap.3.0.0/bootstrap.3.0.0.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/bootstrap.3.3.2/bootstrap.3.3.2.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/bootstrap.3.0.0/Content/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/bootstrap.3.3.2/content/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/bootstrap.3.0.0/Content/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/bootstrap.3.3.2/content/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/bootstrap.3.3.2/content/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/bootstrap.3.0.0/Content/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/bootstrap.3.3.2/content/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/jQuery.1.10.2/jQuery.1.10.2.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/jQuery.1.9.1/jQuery.1.9.1.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/jQuery.Validation.1.11.1/jQuery.Validation.1.11.1.nupkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/EntityFramework.6.1.1/tools/migrate.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/obj/Debug/APM.WebAPI.csproj.FileListAbsolute.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/APM.WebAPI.csproj.user" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/APM.WebAPI.csproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/APM.WebAPI.dll.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/APM.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.sln" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Models/AccountBindingModels.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Controllers/AccountController.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Models/AccountViewModels.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/Views/Help/Api.cshtml.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/Views/Help/Api.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/ApiDescriptionExtensions.cs.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/ApiDescriptionExtensions.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/Views/Help/DisplayTemplates/ApiGroup.cshtml.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/Views/Help/DisplayTemplates/ApiGroup.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/EntityFramework.6.1.1/content/App.config.transform" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Providers/ApplicationOAuthProvider.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Properties/AssemblyInfo.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/App_Start/BundleConfig.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Results/ChallengeResult.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/ModelDescriptions/CollectionModelDescription.cs.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/ModelDescriptions/CollectionModelDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/Views/Help/DisplayTemplates/CollectionModelDescription.cshtml.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/Views/Help/DisplayTemplates/CollectionModelDescription.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/ModelDescriptions/ComplexTypeModelDescription.cs.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/ModelDescriptions/ComplexTypeModelDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/Views/Help/DisplayTemplates/ComplexTypeModelDescription.cshtml.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/Views/Help/DisplayTemplates/ComplexTypeModelDescription.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/ModelDescriptions/DictionaryModelDescription.cs.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/ModelDescriptions/DictionaryModelDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/Views/Help/DisplayTemplates/DictionaryModelDescription.cshtml.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/Views/Help/DisplayTemplates/DictionaryModelDescription.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/EntityFramework.SqlServer.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/EntityFramework.6.1.1/lib/net40/EntityFramework.SqlServer.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/EntityFramework.6.1.1/lib/net45/EntityFramework.SqlServer.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/EntityFramework.6.1.1/tools/EntityFramework.psd1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/EntityFramework.6.1.1/tools/EntityFramework.psm1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/EntityFramework.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/EntityFramework.6.1.1/lib/net40/EntityFramework.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/EntityFramework.6.1.1/lib/net45/EntityFramework.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/ModelDescriptions/EnumTypeModelDescription.cs.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/ModelDescriptions/EnumTypeModelDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/Views/Help/DisplayTemplates/EnumTypeModelDescription.cshtml.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/Views/Help/DisplayTemplates/EnumTypeModelDescription.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/ModelDescriptions/EnumValueDescription.cs.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/ModelDescriptions/EnumValueDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Views/Shared/Error.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/App_Start/FilterConfig.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Global.asax.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Global.asax" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/Controllers/HelpController.cs.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/Controllers/HelpController.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/HelpPage.css.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/HelpPage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/Models/HelpPageApiModel.cs.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/Models/HelpPageApiModel.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/Views/Help/DisplayTemplates/HelpPageApiModel.cshtml.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/Views/Help/DisplayTemplates/HelpPageApiModel.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/HelpPageAreaRegistration.cs.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/HelpPageAreaRegistration.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/App_Start/HelpPageConfig.cs.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/App_Start/HelpPageConfig.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/HelpPageConfigurationExtensions.cs.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/HelpPageConfigurationExtensions.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/SampleGeneration/HelpPageSampleGenerator.cs.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/SampleGeneration/HelpPageSampleGenerator.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/SampleGeneration/HelpPageSampleKey.cs.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/SampleGeneration/HelpPageSampleKey.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Controllers/HomeController.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/ModelDescriptions/IModelDocumentationProvider.cs.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/ModelDescriptions/IModelDocumentationProvider.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/App_Start/IdentityConfig.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Models/IdentityModels.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Controllers/ImageController.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/SampleGeneration/ImageSample.cs.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/SampleGeneration/ImageSample.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/Views/Help/DisplayTemplates/ImageSample.cshtml.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/Views/Help/DisplayTemplates/ImageSample.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/Views/Help/Index.cshtml.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/Views/Help/Index.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Views/Home/Index.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/SampleGeneration/InvalidSample.cs.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/SampleGeneration/InvalidSample.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/Views/Help/DisplayTemplates/InvalidSample.cshtml.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/Views/Help/DisplayTemplates/InvalidSample.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/ModelDescriptions/KeyValuePairModelDescription.cs.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/ModelDescriptions/KeyValuePairModelDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/Views/Help/DisplayTemplates/KeyValuePairModelDescription.cshtml.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/Views/Help/DisplayTemplates/KeyValuePairModelDescription.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Microsoft.AspNet.Identity.Core.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.Identity.Core.2.1.0/lib/net45/Microsoft.AspNet.Identity.Core.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Microsoft.AspNet.Identity.EntityFramework.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.Identity.EntityFramework.2.1.0/lib/net45/Microsoft.AspNet.Identity.EntityFramework.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Microsoft.AspNet.Identity.Owin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.Identity.Owin.2.1.0/lib/net45/Microsoft.AspNet.Identity.Owin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Microsoft.OData.Core.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.OData.Core.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/Microsoft.OData.Core.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Microsoft.OData.Edm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.OData.Edm.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/Microsoft.OData.Edm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Microsoft.Owin.Host.SystemWeb.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Owin.Host.SystemWeb.3.0.0/lib/net45/Microsoft.Owin.Host.SystemWeb.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Microsoft.Owin.Security.Cookies.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Owin.Security.Cookies.3.0.0/lib/net45/Microsoft.Owin.Security.Cookies.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Owin.Security.Facebook.3.0.0/lib/net45/Microsoft.Owin.Security.Facebook.XML" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Microsoft.Owin.Security.Facebook.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Owin.Security.Google.3.0.0/lib/net45/Microsoft.Owin.Security.Google.XML" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Microsoft.Owin.Security.Google.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Owin.Security.MicrosoftAccount.3.0.0/lib/net45/Microsoft.Owin.Security.MicrosoftAccount.XML" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Microsoft.Owin.Security.MicrosoftAccount.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Owin.Security.OAuth.3.0.0/lib/net45/Microsoft.Owin.Security.OAuth.XML" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Microsoft.Owin.Security.OAuth.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Owin.Security.Twitter.3.0.0/lib/net45/Microsoft.Owin.Security.Twitter.XML" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Microsoft.Owin.Security.Twitter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Owin.Security.3.0.0/lib/net45/Microsoft.Owin.Security.XML" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Microsoft.Owin.Security.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Owin.3.0.0/lib/net45/Microsoft.Owin.XML" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Microsoft.Owin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Microsoft.Spatial.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.Spatial.6.10.0/lib/portable-net40+sl5+wp8+win8+wpa/Microsoft.Spatial.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/ModelDescriptions/ModelDescription.cs.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/ModelDescriptions/ModelDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/ModelDescriptions/ModelDescriptionGenerator.cs.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/ModelDescriptions/ModelDescriptionGenerator.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/Views/Help/DisplayTemplates/ModelDescriptionLink.cshtml.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/Views/Help/DisplayTemplates/ModelDescriptionLink.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/ModelDescriptions/ModelNameAttribute.cs.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/ModelDescriptions/ModelNameAttribute.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/ModelDescriptions/ModelNameHelper.cs.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/ModelDescriptions/ModelNameHelper.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/Newtonsoft.Json.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/net20/Newtonsoft.Json.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/net35/Newtonsoft.Json.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/net40/Newtonsoft.Json.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/net45/Newtonsoft.Json.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/netcore45/Newtonsoft.Json.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/portable-net45+wp80+win8+wpa81/Newtonsoft.Json.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/SampleGeneration/ObjectGenerator.cs.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/SampleGeneration/ObjectGenerator.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/ModelDescriptions/ParameterAnnotation.cs.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/ModelDescriptions/ParameterAnnotation.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/ModelDescriptions/ParameterDescription.cs.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/ModelDescriptions/ParameterDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/Views/Help/DisplayTemplates/Parameters.cshtml.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/Views/Help/DisplayTemplates/Parameters.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Models/Product.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Models/ProductRepository.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Project_Readme.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/Views/Help/ResourceModel.cshtml.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/Views/Help/ResourceModel.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/App_Start/RouteConfig.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/SampleGeneration/SampleDirection.cs.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/SampleGeneration/SampleDirection.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/Views/Help/DisplayTemplates/Samples.cshtml.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/Views/Help/DisplayTemplates/Samples.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/ModelDescriptions/SimpleTypeModelDescription.cs.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/ModelDescriptions/SimpleTypeModelDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/Views/Help/DisplayTemplates/SimpleTypeModelDescription.cshtml.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/Views/Help/DisplayTemplates/SimpleTypeModelDescription.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Content/Site.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/App_Start/Startup.Auth.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Startup.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/System.Net.Http.Formatting.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Client.5.2.3/lib/net45/System.Net.Http.Formatting.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Client.5.2.3/lib/portable-wp8+netcore45+net45+wp81+wpa81/System.Net.Http.Formatting.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/System.Web.Helpers.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.2/lib/net45/System.Web.Helpers.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/System.Web.Http.Cors.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Cors.5.2.3/lib/net45/System.Web.Http.Cors.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/System.Web.Http.Owin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Owin.5.2.2/lib/net45/System.Web.Http.Owin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/System.Web.Http.WebHost.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.WebHost.5.2.2/lib/net45/System.Web.Http.WebHost.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/System.Web.Http.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Core.5.2.3/lib/net45/System.Web.Http.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/System.Web.Mvc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.Mvc.5.2.2/lib/net45/System.Web.Mvc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/System.Web.OData.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.OData.5.5.0/lib/net45/System.Web.OData.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/System.Web.Optimization.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/System.Web.Razor.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.Razor.3.2.2/lib/net45/System.Web.Razor.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/System.Web.WebPages.Deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.2/lib/net45/System.Web.WebPages.Deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/System.Web.WebPages.Razor.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.2/lib/net45/System.Web.WebPages.Razor.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/bin/System.Web.WebPages.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.2/lib/net45/System.Web.WebPages.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/SampleGeneration/TextSample.cs.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/SampleGeneration/TextSample.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/Views/Help/DisplayTemplates/TextSample.cshtml.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/Views/Help/DisplayTemplates/TextSample.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Controllers/ValuesController.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.Client/Web.Debug.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Web.Debug.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Web.Release.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.Mvc.5.2.2/Content/Web.config.install.xdt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.2/Content/Web.config.install.xdt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/EntityFramework.6.1.1/content/Web.config.transform" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.Mvc.5.2.2/Content/Web.config.uninstall.xdt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.2/Content/Web.config.uninstall.xdt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.Client/Web.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Web.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/Views/Web.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Views/Web.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/Views/Web.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/App_Start/WebApiConfig.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/XmlDocumentationProvider.cs.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/XmlDocumentationProvider.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/Views/Shared/_Layout.cshtml.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/Views/Shared/_Layout.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Views/Shared/_Layout.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.2/Content/Areas/HelpPage/Views/_ViewStart.cshtml.pp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Areas/HelpPage/Views/_ViewStart.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Views/_ViewStart.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Scripts/_references.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/EntityFramework.6.1.1/tools/about_EntityFramework.help.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/AngularJS.Core.1.3.15/content/Scripts/angular-mocks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/AngularJS.Resource.1.3.15/content/Scripts/angular-resource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/AngularJS.Resource.1.3.15/content/Scripts/angular-resource.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/AngularJS.Resource.1.3.15/content/Scripts/angular-resource.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.Client/Vendor/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/AngularJS.Core.1.3.15/content/Scripts/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/AngularJS.Core.1.3.15/content/Scripts/angular.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/AngularJS.Core.1.3.15/content/Scripts/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.Client/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.Client/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vs/config/applicationhost.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/bootstrap.3.3.2/content/Content/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/bootstrap.3.0.0/Content/Content/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/bootstrap.3.3.2/content/Content/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/bootstrap.3.0.0/Content/Content/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/bootstrap.3.3.2/content/Content/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/bootstrap.3.3.2/content/Content/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Content/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/bootstrap.3.0.0/Content/Content/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/bootstrap.3.3.2/content/Content/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Scripts/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/bootstrap.3.0.0/Content/Scripts/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/bootstrap.3.3.2/content/Scripts/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Content/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/bootstrap.3.0.0/Content/Content/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/bootstrap.3.3.2/content/Content/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Scripts/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/bootstrap.3.0.0/Content/Scripts/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/bootstrap.3.3.2/content/Scripts/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Modernizr.2.6.2/Tools/common.ps1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/jQuery.1.10.2/Tools/common.ps1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/jQuery.1.9.1/Tools/common.ps1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/bootstrap.3.0.0/Content/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/bootstrap.3.3.2/content/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.Client/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/EntityFramework.6.1.1/tools/init.ps1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/EntityFramework.6.1.1/tools/install.ps1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Modernizr.2.6.2/Tools/install.ps1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/tools/install.ps1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/WebGrease.1.5.2/tools/install.ps1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/jQuery.1.10.2/Tools/install.ps1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/jQuery.1.9.1/Tools/install.ps1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/jQuery.1.10.2/Content/Scripts/jquery-1.10.2-vsdoc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Scripts/jquery-1.10.2.intellisense.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/jQuery.1.10.2/Tools/jquery-1.10.2.intellisense.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Scripts/jquery-1.10.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/jQuery.1.10.2/Content/Scripts/jquery-1.10.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Scripts/jquery-1.10.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/jQuery.1.10.2/Content/Scripts/jquery-1.10.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Scripts/jquery-1.10.2.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/jQuery.1.10.2/Content/Scripts/jquery-1.10.2.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/jQuery.1.9.1/Content/Scripts/jquery-1.9.1-vsdoc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/jQuery.1.9.1/Tools/jquery-1.9.1.intellisense.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/jQuery.1.9.1/Content/Scripts/jquery-1.9.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/jQuery.1.9.1/Content/Scripts/jquery-1.9.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/jQuery.1.9.1/Content/Scripts/jquery-1.9.1.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Scripts/jquery.validate-vsdoc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/jQuery.Validation.1.11.1/Content/Scripts/jquery.validate-vsdoc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Scripts/jquery.validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/jQuery.Validation.1.11.1/Content/Scripts/jquery.validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Scripts/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/jQuery.Validation.1.11.1/Content/Scripts/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Scripts/jquery.validate.unobtrusive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.2/Content/Scripts/jquery.validate.unobtrusive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Scripts/jquery.validate.unobtrusive.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.2/Content/Scripts/jquery.validate.unobtrusive.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Scripts/modernizr-2.6.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Modernizr.2.6.2/Content/Scripts/modernizr-2.6.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/bootstrap.3.3.2/content/Scripts/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.Client/packages.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/packages.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/App_Data/product.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Scripts/respond.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Respond.1.2.0/content/Scripts/respond.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM.WebAPI/Scripts/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Respond.1.2.0/content/Scripts/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.Web.Optimization.1.1.3/lib/net40/system.web.optimization.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Modernizr.2.6.2/Tools/uninstall.ps1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/WebGrease.1.5.2/tools/uninstall.ps1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/jQuery.1.10.2/Tools/uninstall.ps1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/jQuery.1.9.1/Tools/uninstall.ps1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Core.5.2.3/Content/web.config.transform" />
+    </list>
+    <ignored path="APM.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="APM" />
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="APM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="APM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="APM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0bbd86f-5797-4246-9a54-871104b3846b" name="Default" comment="" />
+      <created>1437715322522</created>
+      <option name="number" value="Default" />
+      <updated>1437715322522</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32972974" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
