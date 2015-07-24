@@ -1,5 +1,5 @@
 # AP_ImageSearch
-Search for images
+
 In this sample “APM.Client” Angularjs application requests Images from “APM.WebAPI” WebAPI service. WebAPI service will get the images from “AP Content API” and returns them to the client application.
 Calling “AP Content API “directly from AngularJS application will expose the APIKey to the client.So I have created a proxy layer using webapi to handle to requests from the client.
 
