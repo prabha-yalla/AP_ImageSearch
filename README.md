@@ -3,7 +3,7 @@ Helps the user to search images by entering a keyword. It uses AP Content API to
 
 ##### Architecture:
 
-##### AngularJS-Client   --------->      ASP.NET Web API (Proxy Layer)        -------------->     AP Content API
+##### AngularJS-Client ------> ASP.NET Web API (Proxy Layer) ------> AP Content API
 - Client sends the "keyword” entered by the user to proxy layer.
 
 - Proxy layer appends the API Key to the request and forwards it the AP Content API.
