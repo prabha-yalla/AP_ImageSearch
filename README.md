@@ -10,12 +10,12 @@ Helps the user to search images by entering a keyword. It uses AP Content API to
 
 - Proxy layer gets the image url from AP Content API and send response back to Angular Client.
 
-- Angular client parses the JSON response and displays the images.
+- Angular client parses the response and displays the images.
 
 - Since image request also requires API Key to be appended, they are routed via Proxy Layer.
 
 ##### ASP.NET Web API (Proxy Layer) 
-This has 2 services one to support the search request and second one to support the image request
+This has 2 methodfs one to support the search request and second one to support the image request
 
 ##### Architecture Highlights:
 
