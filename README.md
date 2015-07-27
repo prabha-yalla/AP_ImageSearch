@@ -29,7 +29,7 @@ AngularJS, HTML5, CSS3, JavaScript, ASP.NET Web API, C#, ASP.NET MVC, IIS Expres
 -	Download the sample as Zip and extract the files to a folder.
 -	Open the solution in Visual Studio.
 -	Set “APM.client” as a startup project.
--	Build and run the solution(This takes to http://localhost:52436/index.html)
+-	Build and run the solution(This takes to http://localhost:{portnumber}/index.html)
 
 
 
